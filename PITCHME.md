@@ -16,7 +16,7 @@ def fn():
 - Thanks Guido
 - Best Community
 
-Notes:
+Note:
 This is better than expected, cool stuff
 
 ---
