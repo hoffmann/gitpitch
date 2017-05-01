@@ -15,3 +15,11 @@ def fn():
 
 - Thanks Guido
 - Best Community
+
+
+---
+
+### Pycon.DE in Karlsruhe
+
+- Hosted in ZKM
+- Community Sponsor [Blue Yonder](http://blue-yonder.com)
